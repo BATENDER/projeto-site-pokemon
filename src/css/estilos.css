@@ -121,6 +121,10 @@ main {
     background-color: #87ceeb;
 }
 
+.normal {
+    background-color: #b7b7a8;
+}
+
 main .descricao {
     max-height: 80px;
     overflow-y: scroll;
