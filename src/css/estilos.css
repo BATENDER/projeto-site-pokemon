@@ -125,6 +125,14 @@ main {
     background-color: #b7b7a8;
 }
 
+.eletrico {
+    background-color: #ffd451;
+}
+
+.terra {
+    background-color: #e2c56e;
+}
+
 main .descricao {
     max-height: 80px;
     overflow-y: scroll;
